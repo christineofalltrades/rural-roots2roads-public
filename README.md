@@ -5,12 +5,12 @@ This repository supports a community-driven initiative to build transparent, eth
 This public repository contains:
 
 What You’ll Find Here: 
-  Project overview & guiding principles
-  Ethical framework for rural tech solutions
-  Mock data flows for farm-to-food-pantry distribution
-  Templates & educational resources
-  Non-sensitive stories documenting the work
-  Opportunities for collaboration
+  Project overview & guiding principles,
+  Ethical framework for rural tech solutions,
+  Mock data flows for farm-to-food-pantry distribution,
+  Templates & educational resources,
+  Non-sensitive stories documenting the work,
+  Opportunities for collaboration,
 
 What You Won’t Find Here:
   Sensitive data of any kind.
